@@ -16,7 +16,7 @@ export default function Header() {
                     <div>
                         <h1>Styled Components in React</h1>
 
-                        <p>I followed <a href="https://youtu.be/02zO0hZmwnw?feature=shared" alt="">this <strong>styled components</strong> Traversy Media's video tutorial</a> to create this mini project. This excellent tutorial covers all the concepts needed to master styled components in React.</p>
+                        <p>I followed <a href="https://youtu.be/02zO0hZmwnw?feature=shared" target="_blank" rel="noreferrer">this <strong>styled components</strong> Traversy Media's video tutorial</a> to create this mini project. This excellent tutorial covers all the concepts needed to master styled components in React.</p>
 
                         <a href="https://youtu.be/02zO0hZmwnw?feature=shared" target="_blank" rel="noreferrer"><Button bg="#ff0099" color="#fff">Styled Components Tutorial video</Button></a>
 
