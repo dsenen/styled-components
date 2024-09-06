@@ -1,20 +1,20 @@
 const content = [
   {
     id: 1,
-    title: 'Grow Together',
-    body: 'Generate meaningful discussions with your audience and build a strong, loyal community. Think of the insightful conversations you miss out on with a feedback form.',
+    title: 'Styled Components Definition',
+    body: 'Styled Components is a library for React and React Native that allows you to use component-level styles in your application. It utilizes tagged template literals to style your components.',
     image: 'illustration-grow-together.svg',
   },
   {
     id: 2,
-    title: 'Flowing Conversations',
-    body: "You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow.",
+    title: 'Component-Level Styles & Tagged Template Literals',
+    body: "Styles are scoped to the component, preventing unintended side effects from cascading styles. Uses ES6 template literals to style components, allowing you to write plain CSS in your JavaScript",
     image: 'illustration-flowing-conversation.svg',
   },
   {
     id: 3,
-    title: 'Your Users',
-    body: "It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately.",
+    title: 'Dynamic Styling & Theming',
+    body: "Supports dynamic styling based on props, state, or theme. Provides a ThemeProvider to define and use themes throughout your application.",
     image: 'illustration-your-users.svg',
   },
 ]

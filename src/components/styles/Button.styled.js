@@ -13,6 +13,7 @@ export const Button = styled.button`
     
     & > a {
         text-decoration: none;
+        color: ${({ color }) => color || '#333'};
     }
 
     &:hover {
