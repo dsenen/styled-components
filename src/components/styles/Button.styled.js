@@ -10,6 +10,10 @@ export const Button = styled.button`
     padding: 15px 60px;
     background-color: ${({ bg }) => bg || '#fff'};
     color: ${({ color }) => color || '#333'};
+    
+    & > a {
+        text-decoration: none;
+    }
 
     &:hover {
         opacity: 0.9;

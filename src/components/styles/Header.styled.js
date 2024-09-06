@@ -3,7 +3,6 @@ import styled from "styled-components";
 export const StyledHeader = styled.header`
     background-color: #eafcff;
     padding: 40px 0;
-    text-align: center;
 `
 
 export const Nav = styled.nav`

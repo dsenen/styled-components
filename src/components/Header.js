@@ -9,16 +9,16 @@ export default function Header() {
             <Container>
                 <Nav>
                     <Logo src="./images/logo.svg" alt="" />
-                    <Button>Try It Free</Button>
+                    <Button><a href="https://youtu.be/02zO0hZmwnw?feature=shared" target="_blank" rel="noreferrer">Try It Free</a></Button>
                 </Nav>
 
                 <Flex>
                     <div>
-                        <h1>Build The Comunnity Your Fans Will Love</h1>
+                        <h1>Styled Components in React</h1>
 
-                        <p>Subject to availability. Excludes footwear, socks, hosiery, coats, backpacks & lunchboxes. Applies to full priced items only.</p>
+                        <p>I followed <a href="https://youtu.be/02zO0hZmwnw?feature=shared" alt="">this <strong>styled components</strong> Traversy Media's video tutorial</a> to create this mini project. This excellent tutorial covers all the concepts needed to master styled components in React.</p>
 
-                        <Button bg="#ff0099" color="#fff">Get Started For Free</Button>
+                        <Button href="https://youtu.be/02zO0hZmwnw?feature=shared" target="_blank" bg="#ff0099" color="#fff">Styled Components Tutorial video</Button>
 
                     </div>
                     <Image src="./images/illustration-mockups.svg" alt="" />
